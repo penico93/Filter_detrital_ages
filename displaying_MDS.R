@@ -1,6 +1,7 @@
 #Codigo para graficar MDS y guardar las graficas en .pdf
 
-
+# Modified from Vermeesch, Pieter, Alberto Resentini, and Eduardo Garzanti. "An R package for statistical provenance analysis." Sedimentary Geology 336 (2016): 14-25.
+# Vermeesch, Pieter. "Multi-sample comparison of detrital age distributions." Chemical Geology 341 (2013): 140-146.
 #Elegir el path - directorio donde se encuentran los archivos de las muestras filtradas.
 
 setwd("C:/Codigos en R/Final code/Code filtering U Pb/samples/filtered files")
