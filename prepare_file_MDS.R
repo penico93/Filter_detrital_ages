@@ -1,5 +1,6 @@
 #Este codigo toma los datos de las muestras filtradas y las organiza en un .csv llamado DZages, que sera utilizado para hacer el MDS
-
+# Modified from Vermeesch, Pieter, Alberto Resentini, and Eduardo Garzanti. "An R package for statistical provenance analysis." Sedimentary Geology 336 (2016): 14-25.
+# Vermeesch, Pieter. "Multi-sample comparison of detrital age distributions." Chemical Geology 341 (2013): 140-146.
 library(gtools)
 library(plyr)
 library(qpcR)
